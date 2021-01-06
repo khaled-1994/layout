@@ -1,0 +1,99 @@
+body{
+	display: ruby;
+}
+
+hr{
+background-color: black;
+
+}
+.title{
+	margin
+	
+}
+.fname{
+	
+
+}
+.sname{
+    
+}
+div input{
+	margin-left: 500px;
+	padding: 0;
+	box-sizing: initial;
+	outline: none;
+	box-sizing: border-box;
+	font-family: "poppins" , sans-sefri;
+}
+#tit{
+	margin-left: 540px;
+}
+#fna{
+
+}
+#sna{
+ margin-left: 510px;	
+}
+
+#radio-choice-1{
+	display: center;
+	margin-left: 488px;
+	margin-top: -33px;
+
+
+}
+#radio-choice-2{
+	display: center;
+	margin-left: 488px;
+	margin-top: -33px;
+}
+#mob{
+	margin-left: 518px;
+}
+#mai{
+	margin-left: 481px;
+}
+#fax1{
+	margin-left: 542px;
+}
+#mail1{
+	margin-left: 526px;
+}
+#maill{
+	margin-left: 526px;
+}
+#firm{
+	margin-left: 500px;
+
+
+}
+#com{
+	margin-left: 419px;
+}
+    
+#home{
+	margin-left: 493px}
+#adressh{
+margin-left: 472px;
+	}
+#adr{
+	margin-left: 0px;
+	width: 40px;
+
+	}
+#mail11{
+margin-left: 490px;
+	}
+#mailll{
+	margin-left: 459px;
+}
+#ad{
+	margin-left: 0px;
+	width: 40px;
+	
+
+}
+.save{
+	margin-left: 700px;
+	margin-top: 20px;
+}
